@@ -63,3 +63,7 @@ div.picture{
   margin-right: 100px;
   margin-left: 100px;
 }
+
+div.col-md-2{
+  background-color: red;
+}
