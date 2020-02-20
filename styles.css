@@ -67,3 +67,10 @@ div.picture{
 div.col-md-2{
   background-color: red;
 }
+
+h6{
+  color: white;
+  text-indent: 50px;
+  letter-spacing: 3px;
+  word-spacing: 10px;
+}
